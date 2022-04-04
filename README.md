@@ -1,0 +1,1 @@
+Django eCommerce website with a lot of advanced custom functionalities, RDS Postgres
